@@ -1,7 +1,7 @@
 # August 16th 2017
 First Meetup, covered basics as well as best practices and design of a REST API.
 
-General agenda:
+## General agenda:
 This meet up is for API practitioners, implementors and developers to come together to share their experience and learnings on defining, designing, building, launching, managing and consuming APIs based on REST/SOAP/JSON/XML technologies.
 
 
